@@ -6,5 +6,5 @@
 - 🧠 As a programmer, I am also a *lifelong student* & love learning new things everyday 
 - 💻 Knowledgeable in `React`, `Python`, `Java`, `HTML/CSS`, and many other languages/technologies
 - ⚽️ Love playing soccer & exercising during my free time 
-<br></br>
+---
 - 📫 If you'd like to reach me please feel free to shoot me an email: tpisfil13@gmail.com
